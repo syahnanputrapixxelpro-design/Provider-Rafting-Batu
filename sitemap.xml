@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/index.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/blog.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/rafting-batu-malang-untuk-pemula.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://provider-rafting-batu.vercel.app/img/Slide97.webp</image:loc>
+            <image:title>Rafting Batu Malang untuk Pemula</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/panduan-lengkap-rafting-batu-malang-untuk-pemula.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://provider-rafting-batu.vercel.app/img/Slide97.webp</image:loc>
+            <image:title>Panduan Lengkap Rafting Batu Malang untuk Pemula: Aman, Seru, dan Anti Ribet!</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/tips-persiapan-wajib-sebelum-mencoba-rafting-batu-malang-untuk-pemula.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://provider-rafting-batu.vercel.app/img/Slide98.webp</image:loc>
+            <image:title>Tips Persiapan Wajib Sebelum Mencoba Rafting Batu Malang untuk Pemula</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/rekomendasi-spot-rafting-batu-malang-untuk-pemula-terbaik-dan-teraman-di-2026.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://provider-rafting-batu.vercel.app/img/Slide102.webp</image:loc>
+            <image:title>Rekomendasi Spot Rafting Batu Malang untuk Pemula Terbaik dan Teraman di 2026</image:title>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://provider-rafting-batu.vercel.app/rincian-biaya-dan-itinerary-seru-pengalaman-rafting-batu-malang-untuk-pemula.html</loc>
+        <lastmod>2026-02-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://provider-rafting-batu.vercel.app/img/Slide102.webp</image:loc>
+            <image:title>Rincian Biaya dan Itinerary Seru: Pengalaman Rafting Batu Malang untuk Pemula</image:title>
+        </image:image>
+    </url>
+</urlset>
